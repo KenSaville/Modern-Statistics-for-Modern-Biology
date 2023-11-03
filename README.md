@@ -1,2 +1,2 @@
 # Modern-Statistics-for-Modern-Biology
-Working through the MSMB text in QUarto 
+Working through the MSMB text in Quarto 
